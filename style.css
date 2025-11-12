@@ -1,7 +1,7 @@
-img {
+.img {
   width: 200px;
 }
-body {
+.body {
   text-align: center;
   font-family: 'Arial';
   background-color: #4DE3C5;

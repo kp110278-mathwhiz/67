@@ -2,9 +2,9 @@
   width: 200px;
 }
 
-body {
+.body {
   text-align: center;
-  font-family: Arial, sans-serif;
+  font-family: 'Arial';
   background-color: #4DE3C5;
   color: #75D92F;
 }
